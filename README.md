@@ -1,5 +1,7 @@
 ### Hi there 👋 This is Sree Gowri Addepalli.
 
+- 🔭 I’m currently working at Target@AI.
+
 <!--
 **gowriaddepalli/gowriaddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
