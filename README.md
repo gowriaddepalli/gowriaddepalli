@@ -1,6 +1,7 @@
 ### Hi there 👋 This is Sree Gowri Addepalli.
 
 - 🔭 I’m currently working at Target@AI.
+- 📫 I Graduated from MS in CS with Focus in ML from New York University's Courant Institute of Mathematical Sciences.
 
 <!--
 **gowriaddepalli/gowriaddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
