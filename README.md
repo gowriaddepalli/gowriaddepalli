@@ -9,8 +9,6 @@ I'm best reached via email(addepalligowri@gmail.com). I'm always open to interes
 
 [![Gowri's github stats](https://github-readme-stats.vercel.app/api?username=gowriaddepalli)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gowriaddepalli&repo=github-readme-stats)](https://github.com/gowriaddepalli/github-readme-stats)
-
 
 <!--
 **gowriaddepalli/gowriaddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
