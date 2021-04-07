@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working at Target@AI.
 - 📫 I Graduated from MS in CS with Focus in ML from New York University's Courant Institute of Mathematical Sciences.
-- I'm best reached via email(addepalligowri@gmail.com). I'm always open to interesting conversations and collaboration.
-- 
+
+I'm best reached via email(addepalligowri@gmail.com). I'm always open to interesting conversations and collaboration.
+
 
 <!--
 **gowriaddepalli/gowriaddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
