@@ -4,6 +4,7 @@
 - 📫 I Graduated from MS in CS with Focus in ML from New York University's Courant Institute of Mathematical Sciences.
 - 🤔 My current focus is Computer Vision and Machine Learning Systems.
 - 💬 You can connect with me on [Linkedin](https://www.linkedin.com/in/sgaddep/) and [Medium](https://sga297.medium.com/) .
+- 🌱 "I believe as the universe is infinite, their is space for everyone who are **trying** to carve their own niche".
 
 I'm best reached via email(addepalligowri@gmail.com). I'm always open to interesting conversations and collaboration.
 
