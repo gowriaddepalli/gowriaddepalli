@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Sree Gowri Addepalli.
 
-- 🔭 I’m currently working at AI@Target (Applied AI R&D).
+- 🔭 I’m currently working at AI@Target (Applied ML).
 - 📫 I Graduated from MS in CS with Focus in ML from New York University's Courant Institute of Mathematical Sciences.
 - 🤔 My current focus is Computer Vision and Machine Learning Systems.
 - 💬 You can connect with me on [Linkedin](https://www.linkedin.com/in/sgaddep/) and [Medium](https://sga297.medium.com/).
