@@ -6,6 +6,22 @@
 - 💬 You can connect with me on [Linkedin](https://www.linkedin.com/in/sgaddep/) and [Medium](https://sga297.medium.com/).
 - 🌱 "I believe as the universe is infinite, their is space for everyone who are **trying** to carve their own niche".
 
+Detailed Interests:
+
+- Agenda:
+
+   Building myself as a strong AI/ML Software Engineer to build innovative products in the internet (Commerce/shopping/Fashion/ Social Media) domain.
+
+- Interests:
+
+    1. Software(Data) & Distributed/ML Systems (Programming Languages, Strong production systems focus on TDD/BDD, high-performance systems, efficient algorithms).
+    2. CV/NLP (Applied ML) [Search, Ranking Recommendations, Personalization][Visual Search] (Object Detection and Segmentation, Deep Metric Learning)
+
+- Languages and Frameworks:
+
+   Java, Python, C++ (basic), Scala (basic), Pytorch, Spark (basic), bash.
+
+
 I'm best reached via email(addepalligowri@gmail.com). I'm always open to interesting conversations and collaboration.
 
 [![Gowri's github stats](https://github-readme-stats.vercel.app/api?username=gowriaddepalli)](https://github.com/anuraghazra/github-readme-stats)
