@@ -10,7 +10,7 @@ Detailed Interests:
 
 - Agenda:
 
-   Building myself as a strong AI/ML Software Engineer to build innovative products in the internet (Commerce/shopping/Fashion/ Social Media) domain.
+   Building myself as a strong AI/ML Software Engineer to build innovative products in the internet domain.
 
 - Interests:
 
