@@ -15,8 +15,8 @@ Detailed Interests:
 
 - Interests:
 
-    1. Software(Data) & ML Systems (Programming Languages, Strong production systems focus on TDD/BDD, high-performance systems).
-    2. CV/NLP [Search, Ranking Recommendations, Personalization][Visual Search] (Object Detection and Segmentation, Deep Metric Learning, embedding, ranking)
+    1. Software(Data) & ML Systems (Programming Languages, Strong production systems focus on TDD/BDD).
+    2. CV/NLP [Search, Ranking Recommendations, Personalization][Visual Search] (Object Detection and Segmentation, Deep Metric Learning)
 
 - Languages and Frameworks:
 
