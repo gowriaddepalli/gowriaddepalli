@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Sree Gowri Addepalli.
 
 - 🔭 I’m currently working at **AI@Target** (Applied ML).
-- 📫 I Graduated from MS in CS with Focus in ML from New York University's **Courant Institute of Mathematical Sciences**.
+- 📫 I Graduated from **MS in CS** with Focus in ML from New York University's **Courant Institute of Mathematical Sciences**.
 - 🤔 My current focus is **Computer Vision** and **Machine Learning Systems**.
 - 👯 I am a **community builder** and a **program manager** at **Indian Women in Computing**, a chapter associated with Anita.borg. Focussed on building a stronger community for Women in AI.
 - 💬 You can connect with me on [Linkedin](https://www.linkedin.com/in/sgaddep/) and [Medium](https://sga297.medium.com/).
