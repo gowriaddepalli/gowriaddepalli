@@ -12,7 +12,7 @@ Detailed Interests:
 
 - Agenda:
 
-   Building myself as a strong **AI/ML Research Engineer** to build innovative products in the internet domain.
+   Building myself as a strong **AI/ML Research Engineer** to build innovative products in the **internet** domain.
 
 - Interests:
 
