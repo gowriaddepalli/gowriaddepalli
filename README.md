@@ -27,7 +27,7 @@ Detailed Interests:
 I'm best reached via email(addepalligowri@gmail.com). I'm always open to interesting conversations and collaboration.
 
 [![Gowri's github stats](https://github-readme-stats.vercel.app/api?username=gowriaddepalli)](https://github.com/anuraghazra/github-readme-stats)
-![Gowri's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowriaddepalli&theme=radical&layout=compact)
+![Gowri's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowriaddepalli&langs_count=8)
 
 
 
