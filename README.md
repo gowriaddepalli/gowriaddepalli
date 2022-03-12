@@ -33,9 +33,7 @@ I'm best reached via email(addepalligowri@gmail.com). I'm always open to interes
 
 ![Profile views](https://gpvc.arturio.dev/gowriaddepalli)
 
-<p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=gowriaddepalli.gowriaddepalli" alt="visitors"/>
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gowriaddepalli" alt="visitors"/>
 
 
 <!--
