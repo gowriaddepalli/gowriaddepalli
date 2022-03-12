@@ -31,6 +31,11 @@ I'm best reached via email(addepalligowri@gmail.com). I'm always open to interes
 
 ![Gowri's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowriaddepalli&langs_count=10)
 
+![Profile views](https://gpvc.arturio.dev/gowriaddepalli)
+
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gowriaddepalli.gowriaddepalli" alt="visitors"/>
+</p>
 
 
 <!--
