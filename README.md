@@ -24,7 +24,7 @@ Detailed Interests:
    Java, Python, C++ (basic), Scala (basic), Pytorch, Spark (basic), bash.
 
 
-I'm best reached via email(addepalligowri@gmail.com). I'm always open to interesting conversations and collaboration.
+I'm best reached via email(sreegowriaddepalli@gmail.com). I'm always open to interesting conversations and collaboration.
 
 ![Doodle](https://github.com/gowriaddepalli/gowriaddepalli/blob/main/src/Word%20Art.jpeg?raw=true)
 
