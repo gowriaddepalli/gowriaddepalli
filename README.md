@@ -8,17 +8,6 @@
 - 🌱 "I believe as the universe is infinite, their is space for everyone who are **trying** to carve their own niche".
 - ⚡ Fun fact: "I have a twin sister [LakshmiAdepalli](https://www.linkedin.com/in/sree-lakshmi-addepalli/) and we spent whole of our lives (27 years) together attending all schools/workplaces straight from birth till masters, traversing states, countries and continents and a pandemic. She is my complementary in all aspects of life.
 
-Detailed Interests:
-
-- Agenda:
-
-   Building myself as a strong **AI/ML Research Engineer** to build innovative products in the **internet** domain.
-
-- Interests:
-
-    1. Software(Data) & ML Systems (Programming Languages, Strong production systems focus on TDD/BDD), Distributed ML
-    2. CV/NLP [Search, Ranking Recommendations, Personalization][Visual Search] (Object Detection and Segmentation, Deep Metric/Contrastive Learning, Self Supervised learning)
-
 - Languages and Frameworks:
 
    Java, Python, C++ (basic), Scala (basic), Pytorch, Spark (basic), bash.
