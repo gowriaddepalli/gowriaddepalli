@@ -6,7 +6,7 @@
 - 👯 I am a **community builder** and a **program manager** at **[Indian Women in Computing](https://anitab.org/blog/community/finding-your-tribe-indian-women-in-computing/)**, a chapter associated with **AnitaB.org**. Focussed on building a stronger community for Women in AI.
 - 💬 You can connect with me on [Linkedin](https://www.linkedin.com/in/sgaddep/) and [Medium](https://sga297.medium.com/).
 - 🌱 "I believe as the universe is infinite, their is space for everyone who are **trying** to carve their own niche".
-- ⚡ Fun fact: "I have a twin sister [LakshmiAdepalli](https://www.linkedin.com/in/sree-lakshmi-addepalli/) and we spent whole of our lives (27 years) together attending all schools/workplaces straight from birth till masters, traversing states, countries and continents and a pandemic. She is my complementary in all aspects of life.
+- ⚡ Fun fact: "I have a twin sister [LakshmiAdepalli](https://www.linkedin.com/in/sree-lakshmi-addepalli/) and we spent whole of our lives (28 years) together attending all schools/workplaces straight from birth till masters, traversing states, countries and continents and a pandemic. She is my complementary in all aspects of life.
 
 - Languages and Frameworks:
 
