@@ -11,6 +11,9 @@
 - Languages and Frameworks:
 
    Java, Python, C++ (basic), Scala (basic), Pytorch, Spark (basic), bash.
+   
+- Interests:
+  Computer Vision, NLP and Search/Recommendations, Engineering Impact driven products, Good Coding standards.
 
 
 I'm best reached via email(sreegowriaddepalli@gmail.com). I'm always open to interesting conversations and collaboration.
