@@ -13,7 +13,15 @@
    Java, Python, C++ (basic), Scala (basic), Pytorch, Spark (basic), bash.
    
 - Interests:
-  Computer Vision, NLP and Search/Recommendations, Engineering Impact driven products, Good Coding standards.
+  Computer Vision, NLP and Search/Recommendations, Engineering Impact driven AI/ML products.
+  
+- Some of the problem statements that i worked in:
+  1. Self-supervision (Contrastive learning)
+  2. Weak-supervision
+  3. Object Detection and Segmentation (2D Computer Vision)
+  4. Neural Radiance Field (3D Computer Vision)
+  5. Vision Transformers
+
 
 
 I'm best reached via email(sreegowriaddepalli@gmail.com). I'm always open to interesting conversations and collaboration.
